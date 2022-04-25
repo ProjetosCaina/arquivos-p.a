@@ -1,0 +1,13 @@
+Algoritimo_exercicio_02
+    entre com o valor para qtde minima
+    entre com o valor para qtde maxima
+    faça estoque medio = (quantidade_minima + quantidade_maxima) /2
+    mostre estoque medio
+FimAlgoritimo
+
+
+teste de mesa
+
+QtdeMin       QtdeMax     EstoqueMed
+  20             100          60
+  15             200         107,5
