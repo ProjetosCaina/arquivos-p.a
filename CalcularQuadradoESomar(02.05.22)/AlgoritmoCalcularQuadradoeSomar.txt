@@ -1,0 +1,12 @@
+Algoritmo
+  escreva um numero e armazene em Num1
+  escreva um numero e armazene em Num2
+  escreva um numero e armazene em Num3
+  escreva um numero e armazene em Num4
+  faça (n1*n1)+(n2*n2)+(n3*n3)+(n4*n4) e atribua o resultado para o valor total
+  mostre o valor total
+FimAlgoritmo
+
+
+Num1  Num2  Num3  Num4   total
+ 2      4    5     6      120
